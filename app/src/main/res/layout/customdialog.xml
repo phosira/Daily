@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:background="#FFFFFF"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    >
+    <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:gravity="center"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" android:text="할일"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"/>
+        <EditText android:id="@+id/mod_title"
+                  android:selectAllOnFocus="true"
+                  android:gravity="center"
+                  android:imeOptions="actionNext"
+                  android:inputType="text"
+                  android:layout_width="0dp"
+                  android:layout_height="match_parent"
+                  android:layout_weight="7"
+                  />
+    </LinearLayout>
+    <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <EditText
+                android:hint="내용"
+                android:id="@+id/mod_inputtext"
+                android:selectAllOnFocus="true"
+                android:inputType="textMultiLine"
+                android:lines="10"
+                android:gravity="top"
+                android:imeOptions="actionDone"
+                android:layout_width="4dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+        />
+
+    </LinearLayout>
+    <Button
+            android:id="@+id/mod_bt"
+            android:layout_margin="10dp"
+            android:text="저장"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <Button
+            android:id="@+id/mod_exitbt"
+            android:layout_margin="10dp"
+            android:text="취소"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+</LinearLayout>
+

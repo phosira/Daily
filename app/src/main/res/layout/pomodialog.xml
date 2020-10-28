@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="#FFFFFF"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+                android:gravity="center">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+              android:textSize="40dp"
+              android:text="뽀모타임 설정"
+              >
+
+
+    </TextView>
+    <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:gravity="center"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" android:text="집중시간"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"/>
+        <Spinner android:id="@+id/pomo_cocen"
+                  android:gravity="right"
+                  android:layout_width="0dp"
+                  android:layout_height="match_parent"
+                  android:layout_weight="7"
+                  android:entries="@array/cocen"
+        />
+    </LinearLayout>
+    <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <TextView
+                android:gravity="center"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" android:text="휴식시간"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"/>
+
+        <Spinner
+                android:id="@+id/pomo_rest"
+                android:gravity="right"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="7"
+                android:entries="@array/rest"
+
+        />
+
+    </LinearLayout>
+    <Button
+            android:id="@+id/pomo_savebt"
+            android:layout_margin="10dp"
+            android:text="저장"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <Button
+            android:id="@+id/pomo_exitbt"
+            android:layout_margin="10dp"
+            android:text="취소"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+</LinearLayout>
+

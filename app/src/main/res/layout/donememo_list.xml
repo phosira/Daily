@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+                                              xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                                              android:id="@+id/cvItems"
+                                              android:layout_height="match_parent"
+                                              android:layout_width="match_parent"
+                                              android:layout_margin="2dp"
+                                              card_view:cardElevation="0dp"
+                                              card_view:contentPadding="0dp"
+                                              card_view:cardBackgroundColor="#FFFFFF">
+
+
+    <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/checkBox"
+            android:checked="false"
+            android:layout_weight="1"
+    />
+
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:text="TextView"
+              android:id="@+id/title"
+              android:textSize="40sp"
+              android:layout_weight="3"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

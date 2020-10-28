@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".Timer"
+                android:background="#FFFFFF">
+    <TextView
+            android:id="@+id/text_view_countdown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="00:00"
+            android:textColor="@android:color/black"
+            android:textSize="80sp"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="244dp"/>
+    <Button
+            android:id="@+id/button_start_pause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_view_countdown"
+            android:layout_centerHorizontal="true"
+            android:text="시작"
+            android:textSize="20dp"
+            app:layout_constraintTop_toBottomOf="@+id/text_view_countdown" android:layout_marginTop="84dp"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"/>
+    <Button
+            android:id="@+id/button_reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_view_countdown"
+            android:layout_toEndOf="@+id/button_start_pause"
+            android:text="휴식하기"
+            android:textSize="20dp"
+            android:visibility="invisible"
+            tools:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.501" android:layout_marginTop="4dp"
+            app:layout_constraintTop_toBottomOf="@+id/button_start_pause"/>
+    <TextView
+            android:text="뽀모도로 집중"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/pomotitle"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="84dp"
+            android:textStyle="bold"
+            android:textSize="40dp"/>
+    <Button
+            android:text="종료하기"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/quit"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.498"
+            android:visibility="invisible"
+            tools:visibility="visible"
+            android:textSize="20dp"
+            android:layout_marginTop="4dp" app:layout_constraintTop_toBottomOf="@+id/button_start_pause"/>
+    <TextView
+            android:text="0 뽀모 완료!"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/pomolab"
+            android:layout_marginTop="36dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@+id/text_view_countdown"
+            app:layout_constraintBottom_toTopOf="@+id/button_start_pause" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

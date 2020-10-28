@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_pomodialog.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\pomodialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_memo_list.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\memo_list.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\font_custom_font_family.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\font\\custom_font_family.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_background_round.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\dialog_background_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_daily.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_daily.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_mic_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_mic_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_donememo_list.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\donememo_list.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\font_paybooc_bold.ttf.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\font\\paybooc_bold.ttf"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_face_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_face_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_week.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_week.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_todo.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\todo.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_timer.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_font_download_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_font_download_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_view_week_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_view_week_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_customdialog.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nickname_dialog.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_nickname_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_thumb_up_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_thumb_up_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\font_labdigital.ttf.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\font\\labdigital.ttf"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_log_i_n.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_log_i_n.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_daily_recycler_item.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_daily_recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loginpage.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_loginpage.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_todo.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\todo.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_finish.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\finish.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_daily_cusatom_dialog.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_daily_cusatom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_view_headline_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_view_headline_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\raw_alarm.mp3.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\raw\\alarm.mp3"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_event_note_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_event_note_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\font_paybooc_light.ttf.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\font\\paybooc_light.ttf"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\text.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_pw.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_find_pw.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_view_day_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_view_day_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_post_add_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_post_add_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_access_alarm_24.xml.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\drawable\\ic_baseline_access_alarm_24.xml"
+    },
+    {
+        "merged": "C:\\Android\\Daily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Daily\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

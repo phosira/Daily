@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/todo"
+            android:enabled="true"
+            android:icon="@drawable/ic_baseline_event_note_24"
+            android:title="매일"/>
+
+    <item
+            android:id="@+id/month"
+            android:enabled="true"
+            android:icon="@drawable/ic_baseline_calendar_today_24"
+            android:title="달력"/>
+
+    <item
+            android:id="@+id/timer"
+            android:enabled="true"
+            android:icon="@drawable/ic_baseline_access_alarm_24"
+            android:title="집중"/>
+
+    <item
+            android:id="@+id/setting"
+            android:enabled="true"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="설정"/>
+
+</menu>

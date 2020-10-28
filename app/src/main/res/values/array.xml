@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font">
+
+        <item>디지털</item>
+        <item>페이북</item>
+        <item>페이북볼드</item>
+
+    </string-array>
+    <string-array name="cocen">
+
+        <item>25분</item>
+        <item>40분</item>
+        <item>1시간</item>
+
+    </string-array>
+    <string-array name="rest">
+
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+
+    </string-array>
+</resources>

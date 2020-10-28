@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a580e135ff4792a746b8f48a14c6b21\jetified-material-calendarview-1.4.3\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\12c3ae384a8de2484709228873cd2fcd\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bea273081a6505f0a94de5426cedd051\material-1.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a4bf45ee1cd2799bf6d0559eb3917d7\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\696ab8ce48cef933e2e0665c213a460c\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\fe83139f25a9d6cf1a20467535861458\recyclerview-1.1.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2fb8103c62e3ee1e6e4cc337dd696441\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bd85274d5f4cea242491e084a31f30be\fragment-1.3.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\9917474301d9c035d4f838b23b157efd\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.dinuscxj:circleprogressbar:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\b79a84d4113481468ec0332e371f375b\jetified-circleprogressbar-1.3.0\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\5a84463fe3bd90b9ee3ed76258f5efd9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\267c2666c36ea6a280c5fde76d456a4d\coordinatorlayout-1.1.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2cbbc70e3847308c9f0475dbed9a6604\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\f27e49002cf9c3056059bb8c53c2fdc9\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2835da86225ae7e1fc4f577c781272cf\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\cd1c652d26b5b57b76298288dc5cf7a5\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-alpha08] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\5ea030b9dbbd3d34ddbd1d730732aff9\jetified-activity-1.2.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\ffc4098914b91b7860907277c6a73623\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\39b4f59a835527a351392d1b387458e1\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\29a0615a830944b3e7af025aea4c6aff\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\d921a9c243556fbf52115cf35d1366ed\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\18a54f27a043de65a739a79579e1e816\lifecycle-viewmodel-2.3.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\92ec454eacf8cbd1e89f0c9be59ead8a\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\36ba5bdccbd292124c32e784283520c7\lifecycle-runtime-2.3.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\62923fe904e004df587a82ad0af00be4\lifecycle-livedata-core-2.3.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\de7b0c2f4705e3cb372b76d33c6f36f6\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\092f4390277122706e821c5ccddc7546\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera2
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:10:19-58
+application
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a580e135ff4792a746b8f48a14c6b21\jetified-material-calendarview-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a580e135ff4792a746b8f48a14c6b21\jetified-material-calendarview-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bea273081a6505f0a94de5426cedd051\material-1.1.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bea273081a6505f0a94de5426cedd051\material-1.1.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\9917474301d9c035d4f838b23b157efd\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\9917474301d9c035d4f838b23b157efd\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.dinuscxj:circleprogressbar:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\b79a84d4113481468ec0332e371f375b\jetified-circleprogressbar-1.3.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.dinuscxj:circleprogressbar:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\b79a84d4113481468ec0332e371f375b\jetified-circleprogressbar-1.3.0\AndroidManifest.xml:11:5-14:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:17:13-39
+	android:label
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:15:13-45
+	android:roundIcon
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:16:13-58
+	android:icon
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:14:13-47
+	android:allowBackup
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:13:13-39
+	android:theme
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:18:13-44
+	android:usesCleartextTraffic
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:19:13-48
+activity#com.example.daily.DailyCusatomDialog
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:20:19-53
+activity#com.example.daily.DailyRecyclerItem
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:22:19-52
+activity#com.example.daily.MainActivity
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.example.daily.FindPw
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:26:19-41
+activity#com.example.daily.Loginpage
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:28:19-44
+activity#com.example.daily.SignIn
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:30:19-41
+activity#com.example.daily.LogIN
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:32:19-40
+activity#com.example.daily.Loading
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:34:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:38:27-74
+provider#androidx.core.content.FileProvider
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:grantUriPermissions
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:46:17-51
+	android:authorities
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:44:17-73
+	android:exported
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:45:17-41
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:43:17-66
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:47:13-49:57
+	android:resource
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:49:21-55
+	android:name
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml:48:21-71
+uses-sdk
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a580e135ff4792a746b8f48a14c6b21\jetified-material-calendarview-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a580e135ff4792a746b8f48a14c6b21\jetified-material-calendarview-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\12c3ae384a8de2484709228873cd2fcd\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\12c3ae384a8de2484709228873cd2fcd\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bea273081a6505f0a94de5426cedd051\material-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bea273081a6505f0a94de5426cedd051\material-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a4bf45ee1cd2799bf6d0559eb3917d7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3a4bf45ee1cd2799bf6d0559eb3917d7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\696ab8ce48cef933e2e0665c213a460c\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\696ab8ce48cef933e2e0665c213a460c\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\fe83139f25a9d6cf1a20467535861458\recyclerview-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\fe83139f25a9d6cf1a20467535861458\recyclerview-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2fb8103c62e3ee1e6e4cc337dd696441\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2fb8103c62e3ee1e6e4cc337dd696441\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bd85274d5f4cea242491e084a31f30be\fragment-1.3.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bd85274d5f4cea242491e084a31f30be\fragment-1.3.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\9917474301d9c035d4f838b23b157efd\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\9917474301d9c035d4f838b23b157efd\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.dinuscxj:circleprogressbar:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\b79a84d4113481468ec0332e371f375b\jetified-circleprogressbar-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.dinuscxj:circleprogressbar:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\b79a84d4113481468ec0332e371f375b\jetified-circleprogressbar-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\5a84463fe3bd90b9ee3ed76258f5efd9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\5a84463fe3bd90b9ee3ed76258f5efd9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\267c2666c36ea6a280c5fde76d456a4d\coordinatorlayout-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\267c2666c36ea6a280c5fde76d456a4d\coordinatorlayout-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2cbbc70e3847308c9f0475dbed9a6604\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2cbbc70e3847308c9f0475dbed9a6604\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\f27e49002cf9c3056059bb8c53c2fdc9\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\f27e49002cf9c3056059bb8c53c2fdc9\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2835da86225ae7e1fc4f577c781272cf\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\2835da86225ae7e1fc4f577c781272cf\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\cd1c652d26b5b57b76298288dc5cf7a5\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\cd1c652d26b5b57b76298288dc5cf7a5\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha08] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\5ea030b9dbbd3d34ddbd1d730732aff9\jetified-activity-1.2.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha08] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\5ea030b9dbbd3d34ddbd1d730732aff9\jetified-activity-1.2.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\ffc4098914b91b7860907277c6a73623\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\ffc4098914b91b7860907277c6a73623\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\39b4f59a835527a351392d1b387458e1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\39b4f59a835527a351392d1b387458e1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\29a0615a830944b3e7af025aea4c6aff\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\29a0615a830944b3e7af025aea4c6aff\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\d921a9c243556fbf52115cf35d1366ed\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\d921a9c243556fbf52115cf35d1366ed\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\18a54f27a043de65a739a79579e1e816\lifecycle-viewmodel-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\18a54f27a043de65a739a79579e1e816\lifecycle-viewmodel-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\92ec454eacf8cbd1e89f0c9be59ead8a\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\92ec454eacf8cbd1e89f0c9be59ead8a\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\36ba5bdccbd292124c32e784283520c7\lifecycle-runtime-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\36ba5bdccbd292124c32e784283520c7\lifecycle-runtime-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\62923fe904e004df587a82ad0af00be4\lifecycle-livedata-core-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\62923fe904e004df587a82ad0af00be4\lifecycle-livedata-core-2.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\de7b0c2f4705e3cb372b76d33c6f36f6\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\de7b0c2f4705e3cb372b76d33c6f36f6\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\092f4390277122706e821c5ccddc7546\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\092f4390277122706e821c5ccddc7546\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Daily\app\src\main\AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:10:9-14:67
+	android:screenOrientation
+		ADDED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:13:13-52
+	android:configChanges
+		ADDED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:12:13-144
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.2.3] C:\Users\phosira\.gradle\caches\transforms-2\files-2.1\920610fe1abfcec2d2b5485a8f46ba7b\jetified-tedpermission-2.2.3\AndroidManifest.xml:11:13-75
